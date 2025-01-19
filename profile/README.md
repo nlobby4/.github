@@ -37,9 +37,3 @@
 
 <!-- ############################################# -->
 <!-- References -->
-
-[flockmod-shield]: https://img.shields.io/badge/flockmod-nlobby4-green
-[flockmod-url]: https://flockmod.com/r/nlobby4
-[followers-shield]: https://img.shields.io/github/followers/nlobby4?style=social
-[followers-url]: https://github.com/orgs/nlobby4/followers
-[stars-shield]: https://img.shields.io/github/stars/nlobby4
