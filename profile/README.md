@@ -16,7 +16,7 @@
 <!-- Header -->
 
 <h1 align="center">
-  <img width="200" src="./media/art-header.svg" alt="header-art">
+  <img width="200" src="./media/art-header.svg" alt="art-header">
   <img width="355" src="./media/header.svg" alt="header">
 </h1>
 
