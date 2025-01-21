@@ -20,6 +20,7 @@
   <img width="355" src="./media/header.svg" alt="header">
 </h1>
 
+
 <div align="center">
   <p>
     == Freedom of art & speech ==<br><br>
@@ -32,8 +33,23 @@
   </p>
 </div>
 
+---
+
 <!-- ############################################# -->
 <!-- Main Area -->
+
+<div align="center">
+  <img width="180" src="./media/images/nlobbyswag.png" alt="banner4">
+  <img width="180" src="./media/images/alcornia_asd.gif" alt="banner5">
+  <img width="180" src="./media/images/image-1047419.png" alt="banner6">
+  <img width="195" src="media/images/alcornia_welcome_to_nlobby.png" alt="banner7">
+</div>
+
+<div align="center">
+  <img width="180" src="./media/images/alc_edit_image-1039703.png" alt="banner1">
+  <img width="180" src="./media/images/cut0000009.png" alt="banner2">
+  <img width="180" src="./media/images/jj2.png" alt="banner3">
+</div>
 
 <!-- ############################################# -->
 <!-- References -->
