@@ -18,20 +18,20 @@
 <!-- Header -->
 
 <h1 align="center" style="padding-bottom: 0;">
-  <img height="200" src="https://raw.githubusercontent.com/nlobby4/.organization/refs/heads/main/Logos/.current.png" alt="logo"><img width="355" src="https://raw.githubusercontent.com/nlobby4/.organization/refs/heads/main/Banners/.current.png" alt="banner">
+  <img height="200" src="https://raw.githubusercontent.com/nlobby4/.organization/refs/heads/main/Logos/nlobby4/n4_black.png" alt="logo"><img width="355" src="https://raw.githubusercontent.com/nlobby4/.organization/refs/heads/main/Banners/.current.png" alt="banner">
   
 <!--  ############################################# -->
 <!-- Shields -->
 
   <div align="center"> 
     <img src="https://img.shields.io/badge/founded:2024-black?logo=github" alt="founded">
-    <a href="https://flockmod.com/r/nlobby4">
+    <a href="https://flockmod.com/r/nlobby4" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/r/nlobby4-black" alt="fm-room">
     </a>
-    <a href="https://www.npmjs.com/org/nlobby4">
+    <a href="https://www.npmjs.com/org/nlobby4"  style="text-decoration: none;">
       <img src="https://img.shields.io/badge/npm%20packages-black?logo=npm&color=000000" alt="npm">
     </a>
-    <a href="https://nlobby4.org">
+    <a href="https://nlobby4.org" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/nlobby4.org-black?style=flat-square&logo=firefox&logoColor=white&color=000000" alt="website">
     </a>
   </div>
