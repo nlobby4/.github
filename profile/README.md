@@ -18,7 +18,7 @@
 <!-- Header -->
 
 <h1 align="center" style="padding-bottom: 0;">
-  <img height="200" src="https://raw.githubusercontent.com/nlobby4/.organization/refs/heads/main/Logos/nlobby4/n4_black.png" alt="logo"><img width="355" src="https://raw.githubusercontent.com/nlobby4/.organization/refs/heads/main/Banners/.current.png" alt="banner">
+  <img height="200" src="https://raw.githubusercontent.com/nlobby4/.organization/refs/heads/main/Logos/.current.png" alt="logo"><img width="355" src="https://raw.githubusercontent.com/nlobby4/.organization/refs/heads/main/Banners/.current.png" alt="banner">
   
 <!--  ############################################# -->
 <!-- Shields -->
@@ -39,17 +39,15 @@
 
 <!-- ############################################### -->
 <!-- Description -->
+<p align="center">
+  This organization is focused on creating and modifying all things relating to <a href="https://flockmod.com">flockmod</a>. If you are a long term member of the flockmod community and would like to contribute to it, please get in touch with any active developer. We are always looking for new contributors and will review you as a potential candidate.
+</p>
 
-<div align="center">
-  <p>
-    This organization is focused on creating and modifying all things relating to <a href="https://flockmod.com">flockmod</a>. If you are a long term member of the flockmod community and would like to contribute to it, please get in touch with any active developer. We are always looking for new contributors and will review you as a potential candidate.
-    <br>
-    <br>
-    ⓘ <a href="https://nlobby4.org/news/">​[NEWS]​</a> 
-    🖿 <a href="https://flockmod.com/r/nlobby4">​[DRAW]​</a>
-     ★ <a href="https://discord.gg/flockmod">​[DISCORD]​</a>
-  </p>
-</div>
+<p align="center">
+  ⓘ <a href="https://nlobby4.org/news/">​[NEWS]​</a> 
+  🖿 <a href="https://flockmod.com/r/nlobby4">​[DRAW]​</a> 
+  ★ <a href="https://discord.gg/flockmod">​[DISCORD]​</a>
+</p>
 
 <!-- ############################################# -->
 <!-- Table of Contents -->
