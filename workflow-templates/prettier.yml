@@ -7,4 +7,4 @@ on:
 
 jobs:
   prettier:
-    uses: nlobby4/.github/workflows/prettier.yml@main
+    uses: nlobby4/.github/.github/workflows/prettier.yml@main

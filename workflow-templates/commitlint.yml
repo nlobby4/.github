@@ -7,4 +7,4 @@ on:
 
 jobs:
   commitlint:
-    uses: nlobby4/.github/workflows/commitlint.yml@main
+    uses: nlobby4/.github/.github/workflows/commitlint.yml@main

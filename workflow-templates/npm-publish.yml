@@ -6,6 +6,6 @@ on:
 
 jobs:
   publish:
-    uses: nlobby4/.github/workflows/npm-publish.yml@main
+    uses: nlobby4/.github/.github/workflows/npm-publish.yml@main
     secrets:
       NPM_TOKEN: ${{ secrets.NPM_TOKEN }}

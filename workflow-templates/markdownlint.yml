@@ -7,4 +7,4 @@ on:
 
 jobs:
   markdownlint:
-    uses: nlobby4/.github/workflows/markdownlint.yml@main
+    uses: nlobby4/.github/.github/workflows/markdownlint.yml@main
