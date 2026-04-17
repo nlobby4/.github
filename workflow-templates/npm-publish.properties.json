@@ -1,0 +1,6 @@
+{
+  "name": "NPM Publish",
+  "description": "Publish a package to the npm registry on push to the default branch.",
+  "iconName": "octicon package",
+  "categories": ["Automation"]
+}

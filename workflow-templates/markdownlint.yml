@@ -1,0 +1,10 @@
+name: Markdownlint
+
+on:
+  push:
+    branches: [$default-branch]
+  pull_request_target:
+
+jobs:
+  markdownlint:
+    uses: your-org/.github/.github/workflows/markdownlint.yml@main

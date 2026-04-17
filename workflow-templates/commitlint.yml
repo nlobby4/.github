@@ -1,0 +1,10 @@
+name: Commitlint
+
+on:
+  push:
+    branches: [$default-branch]
+  pull_request_target:
+
+jobs:
+  commitlint:
+    uses: your-org/.github/.github/workflows/commitlint.yml@main

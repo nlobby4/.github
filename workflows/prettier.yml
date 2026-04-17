@@ -1,0 +1,23 @@
+name: Prettier
+
+on:
+  workflow_call:
+
+jobs:
+  prettier:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.head_ref }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: lts/*
+
+      - name: Install prettier
+        run: npm install --save-dev prettier
+
+      - name: Run prettier check
+        run: npx prettier --check .

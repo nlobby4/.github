@@ -1,0 +1,10 @@
+name: Prettier
+
+on:
+  push:
+    branches: [$default-branch]
+  pull_request_target:
+
+jobs:
+  prettier:
+    uses: your-org/.github/.github/workflows/prettier.yml@main

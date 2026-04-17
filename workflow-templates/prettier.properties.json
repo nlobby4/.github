@@ -1,0 +1,6 @@
+{
+  "name": "Prettier",
+  "description": "Check code formatting using Prettier.",
+  "iconName": "octicon paintbrush",
+  "categories": ["Automation"]
+}

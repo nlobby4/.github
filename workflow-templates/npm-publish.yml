@@ -1,0 +1,11 @@
+name: NPM Publish
+
+on:
+  push:
+    branches: [$default-branch]
+
+jobs:
+  publish:
+    uses: your-org/.github/.github/workflows/npm-publish.yml@main
+    secrets:
+      NPM_TOKEN: ${{ secrets.NPM_TOKEN }}

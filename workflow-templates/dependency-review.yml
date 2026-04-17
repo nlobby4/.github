@@ -1,0 +1,11 @@
+name: Dependency Review
+
+on:
+  pull_request_target:
+
+jobs:
+  dependency-review:
+    uses: your-org/.github/.github/workflows/dependency-review.yml@main
+    permissions:
+      contents: read
+      pull-requests: write
