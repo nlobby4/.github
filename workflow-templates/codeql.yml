@@ -9,7 +9,7 @@ on:
 
 jobs:
   codeql:
-    uses: your-org/.github/.github/workflows/codeql.yml@main
+    uses: nlobby4/.github/workflows/codeql.yml@main
     permissions:
       actions: read
       contents: read

@@ -5,7 +5,7 @@ on:
 
 jobs:
   dependency-review:
-    uses: your-org/.github/.github/workflows/dependency-review.yml@main
+    uses: nlobby4/.github/workflows/dependency-review.yml@main
     permissions:
       contents: read
       pull-requests: write
