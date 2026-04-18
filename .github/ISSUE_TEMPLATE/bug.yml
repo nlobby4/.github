@@ -6,9 +6,6 @@ type: Bug
 labels:
   - bug
   - needs-triage
-# TODO:: Update assignees to the appropriate team members
-assignees:
-  - exquz3me
 body:
   - type: textarea
     id: description
