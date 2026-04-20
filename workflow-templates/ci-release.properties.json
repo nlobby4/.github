@@ -1,7 +1,0 @@
-{
-  "name": "nlobby4 CI Release",
-  "description": "Automated semantic versioning and GitHub release via semantic-release. Triggers on push to main, beta, and alpha branches. Requires a release.config.js and conventional commits.",
-  "iconName": "nlobby4-ci",
-  "categories": ["Deployment"],
-  "filePatterns": ["package.json$", "release\\.config\\.(js|ts|cjs|mjs)$"]
-}
