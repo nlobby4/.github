@@ -1,7 +1,0 @@
-{
-  "name": "nlobby4 CI Privileged",
-  "description": "Pull request automation requiring write permissions: automatic labeling and dependency vulnerability review. Uses pull_request_target — do not add steps that execute PR branch code.",
-  "iconName": "nlobby4-ci",
-  "categories": ["Automation"],
-  "filePatterns": ["package.json$"]
-}
