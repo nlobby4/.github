@@ -1,7 +1,0 @@
-{
-  "name": "nlobby4 CI General",
-  "description": "Code quality checks: formatting, linting, spelling, commit validation, dependency audit, and unused dependency detection. Requires Node.js and npm scripts matching the nlobby4 CI template conventions.",
-  "iconName": "nlobby4-ci",
-  "categories": ["Continuous Integration"],
-  "filePatterns": ["package.json$"]
-}
