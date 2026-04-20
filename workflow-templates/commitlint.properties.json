@@ -1,6 +1,0 @@
-{
-  "name": "Commitlint",
-  "description": "Lint commit messages against the Conventional Commits specification.",
-  "iconName": "octicon git-commit",
-  "categories": ["Automation"]
-}

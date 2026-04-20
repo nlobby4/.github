@@ -1,6 +1,0 @@
-{
-  "name": "CodeQL",
-  "description": "Analyze code for vulnerabilities using GitHub CodeQL with automatic language detection.",
-  "iconName": "octicon shield",
-  "categories": ["Security"]
-}

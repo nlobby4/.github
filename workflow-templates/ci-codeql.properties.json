@@ -1,0 +1,7 @@
+{
+  "name": "nlobby4 CI CodeQL",
+  "description": "Static analysis for security vulnerabilities and code quality using CodeQL. Auto-detects repository languages. Runs on push, pull request, and weekly schedule.",
+  "iconName": "nlobby4-ci",
+  "categories": ["Security"],
+  "filePatterns": ["package.json$"]
+}

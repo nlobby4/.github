@@ -1,6 +1,0 @@
-{
-  "name": "Markdownlint",
-  "description": "Lint Markdown files using markdownlint-cli2.",
-  "iconName": "octicon markdown",
-  "categories": ["Automation"]
-}

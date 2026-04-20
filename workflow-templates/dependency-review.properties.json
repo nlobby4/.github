@@ -1,6 +1,0 @@
-{
-  "name": "Dependency Review",
-  "description": "Review dependency changes on pull requests for known vulnerabilities.",
-  "iconName": "octicon package-dependencies",
-  "categories": ["Security"]
-}
