@@ -14,6 +14,8 @@
 
 Please follow these guidelines to ensure a smooth contribution process:
 
+- **Open an issue** to discuss your proposed changes before you start working on
+  them. This helps us understand the scope and impact of your contribution.
 - **Fork the repository** and create your feature branch from `main`, or
   create a branch directly if you have write access to the repository.
   Use the conventional branch naming format matching your commit type:
