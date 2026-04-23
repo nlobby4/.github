@@ -30,8 +30,14 @@
 This organization is focused on creating and modifying all things related to
 [flockmod](https://flockmod.com). If you are a long term member of the flockmod
 community and would like to contribute to it, please get in touch with any
-active developer. We are always looking for new contributors and will review you
-as a potential candidate.
+active developer. We are always looking for new organization members and will
+review you as a candidate.
+
+Even if you are not familiar with the platform, we have plenty of open source
+projects that you can contribute to without having to be a member of the
+organization.
+
+Your time and effort are always appreciated!
 
 <!-- ? ############################################### -->
 <!-- ? URLs -->
@@ -45,9 +51,12 @@ as a potential candidate.
 
 <br>
 
+<!-- markdownlint-enable MD013 -->
+<!-- ? ############################################# -->
+<!-- ? Main Area -->
+
 ---
 
-<!-- markdownlint-enable MD013 -->
 <!-- ? ############################################# -->
 <!-- ? Footer -->
 
@@ -71,11 +80,16 @@ as a potential candidate.
 <!-- ? ############################################# -->
 <!-- ? References -->
 
-[logo]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/logo-readme.png
-[banner]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/banner-readme.png
-[footer]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/footer-readme.png
+[logo]:
+  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/logo-readme.png
+[banner]:
+  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/banner-readme.png
+[footer]:
+  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/footer-readme.png
 [founded]: https://img.shields.io/badge/founded:2024-black?logo=github
 [npm]: https://img.shields.io/badge/npm%20packages-black?logo=npm&color=000000
-[website]: https://img.shields.io/badge/nlobby4.org-black?logo=firefoxbrowser&logoColor=white&color=000000
-[discord]: https://img.shields.io/badge/discord-black?logo=discord&logoColor=white
+[website]:
+  https://img.shields.io/badge/nlobby4.org-black?logo=firefoxbrowser&logoColor=white&color=000000
+[discord]:
+  https://img.shields.io/badge/discord-black?logo=discord&logoColor=white
 [flockmod]: https://img.shields.io/badge/r/nlobby4-black

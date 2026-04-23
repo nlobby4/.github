@@ -27,11 +27,9 @@
 <!-- ? ############################################### -->
 <!-- ? Description -->
 
-This organization is focused on creating and modifying all things related to
-[flockmod](https://flockmod.com). If you are a long term member of the flockmod
-community and would like to contribute to it, please get in touch with any
-active developer. We are always looking for new contributors and will review you
-as a potential candidate.
+This repository serves as a public information hub for the **nlobby4
+organization**. Here, you can find details about our projects, contributions,
+and how to get involved with our efforts.
 
 <!-- ? ############################################### -->
 <!-- ? URLs -->
@@ -45,22 +43,19 @@ as a potential candidate.
 
 <br>
 
+<!-- markdownlint-enable MD013 -->
+<!-- ? ############################################### -->
+<!-- ? Main Area -->
+
 ---
 
-<!-- markdownlint-enable MD013 -->
 <!-- ? ############################################# -->
 <!-- ? Footer -->
 
-> ## Acknowledgments
+> [!NOTE]
 >
-> Please note that this organization is **not affiliated** with the developers
-> of [flockmod](https://flockmod.com). All credit for the creation and ongoing
-> maintenance of the original platform goes to its **original authors**: **FDT**
-> and **auto**. We greatly respect and appreciate their work, which has served
-> as the foundation and inspiration for our community-driven efforts to extend
-> and enhance the flockmod experience.
->
-> **Special thanks to: Anonymous, D, Zexium**
+> Files from this repository are automatically included in new repositories if
+> they don't already exist.
 
 <div align="right">
 
@@ -71,11 +66,16 @@ as a potential candidate.
 <!-- ? ############################################# -->
 <!-- ? References -->
 
-[logo]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/logo-readme.png
-[banner]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/banner-readme.png
-[footer]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/footer-readme.png
+[logo]:
+  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/logo-readme.png
+[banner]:
+  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/banner-readme.png
+[footer]:
+  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/readme/footer-readme.png
 [founded]: https://img.shields.io/badge/founded:2024-black?logo=github
 [npm]: https://img.shields.io/badge/npm%20packages-black?logo=npm&color=000000
-[website]: https://img.shields.io/badge/nlobby4.org-black?logo=firefoxbrowser&logoColor=white&color=000000
-[discord]: https://img.shields.io/badge/discord-black?logo=discord&logoColor=white
+[website]:
+  https://img.shields.io/badge/nlobby4.org-black?logo=firefoxbrowser&logoColor=white&color=000000
+[discord]:
+  https://img.shields.io/badge/discord-black?logo=discord&logoColor=white
 [flockmod]: https://img.shields.io/badge/r/nlobby4-black
