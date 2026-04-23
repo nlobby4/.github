@@ -1,10 +1,10 @@
 ---
 name: Custom Issue
 about: General purpose issue template
-labels: "need-triage"
+title: "[CUSTOM] <title>"
+labels:
+  - needs-triage
 ---
-
-# Issue
 
 <!-- Provide information about your issue here -->
 
