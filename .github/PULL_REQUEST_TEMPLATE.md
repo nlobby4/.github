@@ -4,16 +4,17 @@
 
   Update the PR title to a conventional commit message,
   this will be the squashed commit message when the PR is merged.
-  The description will be included in the next release changelog.
 
-  # type: feat, fix, docs, style, refactor, perf, test, build, ci, chore, revert (required)
-  # scope: assets, ci, deps, dev-deps, docs, meta, release, scripts, src, templates, tests (optional)
-  # subject: imperative, lowercase start, all caps forbidden, no period, max 72 chars total
+  - type: feat, fix, docs, style, refactor, perf, test, build, ci, chore, revert (required)
+  - scope: assets, ci, deps, dev-deps, docs, meta, release, scripts, src, templates, tests (optional)
+  - subject: imperative, lowercase start, all caps forbidden, no period, max 72 chars total
 -->
 
-# type(scope): subject
+<!-- This description will be included in the next release changelog. -->
 
-<!-- Provide a description of your changes -->
+# Pull Request Title
+
+---
 
 <!-- If this PR references issues, pull requests, or commits, link them here -->
 
