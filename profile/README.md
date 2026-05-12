@@ -12,7 +12,7 @@
 
 <a id="readme-top"></a>
 
-<h1 align="center" style="padding-bottom: 0;">
+<h1 align="center">
 
 ![nlobby4][logo]![banner][banner]
 
