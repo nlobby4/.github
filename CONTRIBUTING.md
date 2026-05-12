@@ -12,7 +12,7 @@
 
 **Thank you for your interest in contributing!**
 
-If you have questions, want to suggest features or report bugs, please open a
+If you have questions, want to suggest features or report bugs, please open an
 issue. Even if you don't want to contribute code, you can still help by
 providing feedback and sharing your ideas.
 
@@ -67,6 +67,11 @@ contribution process:
   ```
 
 - **Follow the [Code of Conduct](./CODE_OF_CONDUCT.md)**
+
+## License of Contributions
+
+By submitting a pull request, you agree that your contributions will be
+licensed under the terms of this repository's license.
 
 ---
 
