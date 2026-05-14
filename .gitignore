@@ -26,19 +26,19 @@
 !*/
 
 # Allow specific root-level files and directories
-!.editorconfig
-!.git-blame-ignore-revs
-!.gitattributes
-!.gitignore
-!.mailmap
-!.github/**
-!.vscode/**
-!AUTHORS
-!LICENSE
-!README.md
-!profile/**
-!CODE_OF_CONDUCT.md
-!CONTRIBUTING.md
-!GOVERNANCE.md
-!SECURITY.md
-!SUPPORT.md
+!/.editorconfig
+!/.git-blame-ignore-revs
+!/.gitattributes
+!/.gitignore
+!/.mailmap
+!/.github/**
+!/.vscode/**
+!/AUTHORS
+!/LICENSE
+!/README.md
+!/profile/**
+!/CODE_OF_CONDUCT.md
+!/CONTRIBUTING.md
+!/GOVERNANCE.md
+!/SECURITY.md
+!/SUPPORT.md
