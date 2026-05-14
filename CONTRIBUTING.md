@@ -33,8 +33,9 @@ contribution process:
 - **Open an issue** to discuss your proposed changes before you start working on
   them. This prevents duplicate work and allows maintainers to provide feedback
   early on.
-- **Fork the repository** and create your branch from `main` using conventional
-  branch naming based on the type of change you are making:
+- **Fork the repository** and create your branch from `main` using
+  [conventional branch](https://conventional-branch.github.io/) naming based on
+  the type of change you are making:
 
   ```bash
   # e.g. "feat/feature-name" or "fix/bug-description"
@@ -70,8 +71,8 @@ contribution process:
 
 ## License of Contributions
 
-By submitting a pull request, you agree that your contributions will be
-licensed under the terms of this repository's license.
+By submitting a pull request, you agree that your contributions will be licensed
+under the terms of this repository's license.
 
 ---
 
