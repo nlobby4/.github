@@ -20,7 +20,7 @@ vulnerability**.
 If you cannot use GitHub private reporting, use one of the following channels:
 
 - **Email**: Send details to [contact@nlobby4.org](mailto:contact@nlobby4.org)
-- **Discord**: [Join our Discord server](https://discord.gg/flockmod/)
+- **Discord**: [Join our Discord server](https://discord.gg/flockmod)
 
 We encourage you to encrypt reports done via email by using our public PGP key:
 
@@ -60,9 +60,6 @@ gpg --verify security.txt.asc security.txt
 <!-- ? ############################################# -->
 <!-- ? References -->
 
-[logo]:
-  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/security/logo-security.png
-[banner]:
-  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/security/banner-security.png
-[footer]:
-  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/security/footer-security.png
+[logo]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/security/logo-security.png
+[banner]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/security/banner-security.png
+[footer]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/security/footer-security.png
