@@ -67,7 +67,8 @@ contribution process:
   git branch -d type/short-description
   ```
 
-- **Follow the [Code of Conduct](./CODE_OF_CONDUCT.md)**
+- **Follow the
+  [Code of Conduct](https://github.com/nlobby4/.github/blob/main/CODE_OF_CONDUCT.md)**
 
 ## License of Contributions
 
