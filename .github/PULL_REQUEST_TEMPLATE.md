@@ -1,28 +1,19 @@
-<!--
-  Please follow the guidelines in CONTRIBUTING.md when creating a pull request.
-
-  Update the PR title to a conventional commit message,
-  this will be used to generate the changelog and release notes:
-
-  type(scope): subject
-
-  type (required):  feat, fix, docs, style, refactor, perf,
-                    test, build, ci, chore, revert
-  scope (optional): assets, ci, deps, deps-dev, docs, meta,
-                    release, scripts, src, templates, tests
-  subject: imperative, lowercase start,  all caps forbidden,
-           no period, max 72 chars total
-
-  Delete this comment after acknowledging the guidelines.
--->
-
 # Pull Request
 
-<!-- Provide a description of the changes the PR introduces -->
+> **Title format:** `type(scope): subject` see
+> [conventional commitlint config](https://www.npmjs.com/package/@commitlint/config-conventional) for valid types
+> and scopes.
+
+## Description
+
+<!-- Summarize the changes made in this pull request -->
 
 ## References
 
-<!-- Link related issues, PRs, or commits here. -->
-<!-- Closes # -->
-<!-- Fixes # -->
-<!-- Related to # -->
+- Closes #
+- Related to #
+
+---
+
+Before submitting, check [existing PRs](../../pulls) to avoid duplicates and
+read [CONTRIBUTING.md](../CONTRIBUTING.md).
