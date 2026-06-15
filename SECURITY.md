@@ -60,6 +60,9 @@ gpg --verify security.txt.asc security.txt
 <!-- ? ############################################# -->
 <!-- ? References -->
 
-[logo]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/security/logo-security.png
-[banner]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/security/banner-security.png
-[footer]: https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/security/footer-security.png
+[logo]:
+  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/security/logo-security.png
+[banner]:
+  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/security/banner-security.png
+[footer]:
+  https://media.githubusercontent.com/media/nlobby4/organization/refs/heads/main/project/repo/security/footer-security.png
