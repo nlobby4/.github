@@ -15,5 +15,5 @@
 
 ---
 
-Before submitting, check [existing PRs](../../pulls) to avoid duplicates and
-read [CONTRIBUTING.md](../CONTRIBUTING.md).
+> Review our contributing guidelines before submitting and check existing PRs to
+> avoid duplicates.
