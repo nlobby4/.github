@@ -4,8 +4,6 @@ name: Ask a question
 description: Ask a question about the project
 title: "[QUESTION] <title>"
 type: Question
-labels:
-  - help wanted
 body:
   - type: textarea
     id: question
