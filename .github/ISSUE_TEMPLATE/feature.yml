@@ -5,7 +5,6 @@ description: A request, idea, enhancement or new functionality
 title: "[FEATURE] <title>"
 type: Feature
 labels:
-  - feat
   - needs-triage
 body:
   - type: textarea
