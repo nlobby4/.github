@@ -1,16 +1,16 @@
 # yaml-language-server: $schema=https://json.schemastore.org/github-issue-forms.json
 
-name: Request a feature
-description: A request, idea, enhancement or new functionality
+name: "Request a feature"
+description: "A request, idea, enhancement or new functionality"
 title: "[FEATURE] <title>"
-type: Feature
+type: "Feature"
 labels:
-  - needs-triage
+  - "needs-triage"
 body:
-  - type: textarea
-    id: proposal
+  - type: "textarea"
+    id: "proposal"
     attributes:
-      label: Proposal
+      label: "Proposal"
       description: |
         Provide detailed information for a feature that should be added.
 
